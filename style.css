@@ -1,12 +1,12 @@
-/* Sitenin Ortalı Olması */
+/* Centered Site */
 body {
     text-align: center;
 }
-/* Başlık 1 rengi*/
+/* Header 1 Color */
 h1 {
     color: #1B2430 ;
 }
-/* Başlık 2 rengi*/
+/* Header 2 color*/
 h2 {
     color: #51557E;
 }
