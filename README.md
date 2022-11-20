@@ -1,2 +1,2 @@
-# Kodluyoruz-CSS-Odev-1
-Patika.dev ile yaptığım CSS Ödevi 1
+# Kodluyoruz.org-CSS-Homework-1
+Kodluyoruz.org CSS Homework 1
